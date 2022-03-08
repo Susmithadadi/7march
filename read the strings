@@ -1,0 +1,73 @@
+s=input('enter name')
+l=s#it converts string to list
+for i in l:
+    print(i)
+    print(s[1:-1])
+    print(l)
+    
+    
+    enter name
+Aditya degree college
+A
+ditya degree colleg
+Aditya degree college
+d
+ditya degree colleg
+Aditya degree college
+i
+ditya degree colleg
+Aditya degree college
+t
+ditya degree colleg
+Aditya degree college
+y
+ditya degree colleg
+Aditya degree college
+a
+ditya degree colleg
+Aditya degree college
+ 
+ditya degree colleg
+Aditya degree college
+d
+ditya degree colleg
+Aditya degree college
+e
+ditya degree colleg
+Aditya degree college
+g
+ditya degree colleg
+Aditya degree college
+r
+ditya degree colleg
+Aditya degree college
+e
+ditya degree colleg
+Aditya degree college
+e
+ditya degree colleg
+Aditya degree college
+ 
+ditya degree colleg
+Aditya degree college
+c
+ditya degree colleg
+Aditya degree college
+o
+ditya degree colleg
+Aditya degree college
+l
+ditya degree colleg
+Aditya degree college
+l
+ditya degree colleg
+Aditya degree college
+e
+ditya degree colleg
+Aditya degree college
+g
+ditya degree colleg
+Aditya degree college
+e
+ditya degree colleg
+Aditya degree college
